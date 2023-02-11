@@ -1,1 +1,1 @@
-python3 pyUltroid
+web: python3 pyUltroid
